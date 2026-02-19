@@ -59,8 +59,8 @@ A Windows application inventory and provisioning engine built on **winget**, des
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-account>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/dspitech/Winget-inventory-report.git
+cd Winget-inventory-report
 ```
 
 #### 2. Run the script
@@ -150,7 +150,4 @@ Recommended workflow:
 
 ---
 
-### 📜 License
-
-Add the license you want here (e.g. **MIT**, **Apache 2.0**, etc.).  
 
