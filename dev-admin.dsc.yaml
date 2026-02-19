@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://aka.ms/configuration-dsc-schema/0.2
+properties:
+  assertions:
+    - resource: Microsoft.Windows.Developer/OsVersion
+      settings:
+        MinVersion: '10.0.22000'
+  resources:
+    - resource: Microsoft.Windows.Settings/WindowsSettings
+      id: DevMode
+      directives:
+        description: "Enable Windows Developer Mode"
+        securityContext: elevated
+      settings:
+        DeveloperMode: true
+  configurationVersion: 0.2.0
