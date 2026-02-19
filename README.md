@@ -1,5 +1,9 @@
 # Dynamic Winget Provisioning Engine 
 
+- **Année**: **2025 - 2026**
+- **Author** : **LO Pape**
+
+
 A Windows application inventory and provisioning engine built on **winget**, designed for modern admins, power users, and enterprise environments.
 
 ## 🧰 Technologies et outils
