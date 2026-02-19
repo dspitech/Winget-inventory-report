@@ -1,8 +1,17 @@
-## Dynamic Winget Provisioning Engine (2026)
+# Dynamic Winget Provisioning Engine 
 
 A Windows application inventory and provisioning engine built on **winget**, designed for modern admins, power users, and enterprise environments.
 
-### ✨ Highlights
+## 🧰 Technologies et outils
+
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+
+
+## ✨ Highlights
 
 - **Modern HTML dashboard**
   - Full inventory of installed applications  
@@ -27,7 +36,7 @@ A Windows application inventory and provisioning engine built on **winget**, des
 
 ---
 
-### 📂 Project structure
+## 📂 Project structure
 
 - `Provision.ps1`  
   Main PowerShell script:
